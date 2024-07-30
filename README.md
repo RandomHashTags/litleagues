@@ -25,3 +25,6 @@ Some custom written stuff include Swift [Macros](https://docs.swift.org/swift-bo
 - Many league and tournament settings to tailor your schedules exactly how you want
 - Export as PDF
 - [coming soon] Database features (creating accounts, joining teams, organizing leagues & tournaments, saving schedules & schedule settings)
+
+## Update Frequency
+Usually the first Friday of every month (so, once a month). Sometimes more if the updates are necessary (bug fixes, security patches) or I get notable stuff done.
