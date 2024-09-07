@@ -5,7 +5,7 @@ The actual code is not publicly available at this time.
 
 View service at https://litleagues.com
 
-View updates and progress at https://litleagues.com/updates
+View updates and progress at https://litleagues.com/newsroom
 
 ## Tech Stack
 - Language: [Swift](https://www.swift.org) 5.10 (will be 6.0 when publicly available)
