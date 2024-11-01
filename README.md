@@ -8,10 +8,10 @@ View service at https://litleagues.com
 View updates and progress at https://litleagues.com/newsroom
 
 ## Tech Stack
-- Language: [Swift](https://www.swift.org) 5.10 (will be 6.0 when publicly available)
+- Language: [Swift](https://www.swift.org) 5.10 (slowly progressing to 6.0)
 - IDE: [Visual Studio Code](https://code.visualstudio.com), sometimes [Xcode](https://developer.apple.com/xcode/)
-- Website: HTML, Javascript, CSS, [Leaf](https://github.com/vapor/leaf)
-- Networking: [Vapor](https://github.com/vapor/vapor), [nginx](https://nginx.org) (only for reverse proxy)
+- Website: HTML, JavaScript, CSS, [Swift HTMLKit](https://github.com/RandomHashTags/swift-htmlkit)
+- Networking: [Vapor](https://github.com/vapor/vapor), [Destiny](https://github.com/RandomHashTags/destiny) (switching to soon), [nginx](https://nginx.org) (only for reverse proxy)
 - SSL: [Certbot](https://certbot.eff.org), [Let's Encrypt](https://letsencrypt.org)
 - DNS: was Google Domains, now [Squarespace](https://www.squarespace.com)
 - Database: [Fluent](https://github.com/vapor/fluent), [Fluent PostgreSQL](https://github.com/vapor/fluent-postgres-driver), [PostgreSQL](https://www.postgresql.org)
