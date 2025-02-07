@@ -9,11 +9,11 @@ View updates and progress at https://litleagues.com/newsroom
 
 ## Tech Stack
 - Language: [Swift](https://www.swift.org) 5.10 (slowly progressing to 6.0)
-- IDE: [Visual Studio Code](https://code.visualstudio.com), sometimes [Xcode](https://developer.apple.com/xcode/)
+- IDE: [Visual Studio Code](https://code.visualstudio.com), rarely [Xcode](https://developer.apple.com/xcode/)
 - Website: HTML, JavaScript, CSS, [Swift HTMLKit](https://github.com/RandomHashTags/swift-htmlkit)
-- Networking: [Vapor](https://github.com/vapor/vapor), [Destiny](https://github.com/RandomHashTags/destiny) (switching to soon), [nginx](https://nginx.org) (only for reverse proxy)
+- Networking: [Vapor](https://github.com/vapor/vapor), [Destiny](https://github.com/RandomHashTags/destiny) (switching to when stable), [nginx](https://nginx.org) (only for reverse proxy)
 - SSL: [Certbot](https://certbot.eff.org), [Let's Encrypt](https://letsencrypt.org)
-- DNS: was Google Domains, now [Squarespace](https://www.squarespace.com)
+- DNS: was Google Domains, now [Squarespace](https://www.squarespace.com) (switching to Porkbun very soon)
 - Database: [Fluent](https://github.com/vapor/fluent), [Fluent PostgreSQL](https://github.com/vapor/fluent-postgres-driver), [PostgreSQL](https://www.postgresql.org)
 - Mail Server: [Postfix](https://en.wikipedia.org/wiki/Postfix_(software))
 - Physical Server: Locally hosted [AMD Threadripper](https://www.techpowerup.com/cpu-specs/ryzen-threadripper-1900x.c1912) running [Arch Linux](https://en.wikipedia.org/wiki/Arch_Linux)
