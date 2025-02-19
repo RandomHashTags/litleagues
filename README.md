@@ -13,7 +13,7 @@ View updates and progress at https://litleagues.com/newsroom
 - Website: HTML, JavaScript, CSS, [Swift HTMLKit](https://github.com/RandomHashTags/swift-htmlkit)
 - Networking: [Vapor](https://github.com/vapor/vapor), [Destiny](https://github.com/RandomHashTags/destiny) (switching to when stable), [nginx](https://nginx.org) (only for reverse proxy)
 - SSL: [Certbot](https://certbot.eff.org), [Let's Encrypt](https://letsencrypt.org)
-- DNS: was Google Domains, now [Squarespace](https://www.squarespace.com) (switching to Porkbun very soon)
+- DNS: Porkbun (previously Google Domains, and [Squarespace](https://www.squarespace.com))
 - Database: [Fluent](https://github.com/vapor/fluent), [Fluent PostgreSQL](https://github.com/vapor/fluent-postgres-driver), [PostgreSQL](https://www.postgresql.org)
 - Mail Server: [Postfix](https://en.wikipedia.org/wiki/Postfix_(software))
 - Physical Server: Locally hosted [AMD Threadripper](https://www.techpowerup.com/cpu-specs/ryzen-threadripper-1900x.c1912) running [Arch Linux](https://en.wikipedia.org/wiki/Arch_Linux)
