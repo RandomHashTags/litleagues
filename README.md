@@ -21,15 +21,14 @@ View updates and progress at https://litleagues.com/newsroom
 - TLS/SSL:
   - [Certbot](https://certbot.eff.org)
   - [Let's Encrypt](https://letsencrypt.org)
-- DNS: Porkbun (previously Google Domains and [Squarespace](https://www.squarespace.com))
+- DNS: [Porkbun](https://porkbun.com/) (previously [Google Domains](https://domains.google/) and [Squarespace](https://www.squarespace.com))
 - Database:
-  - [Fluent](https://github.com/vapor/fluent)
-  - [Fluent PostgreSQL](https://github.com/vapor/fluent-postgres-driver)
+  - [Fluent](https://github.com/vapor/fluent) + [Fluent PostgreSQL](https://github.com/vapor/fluent-postgres-driver) (switching to [swift-database](https://github.com/RandomHashTags/swift-database) when stable)
   - [PostgreSQL](https://www.postgresql.org)
 - Mail Server: [Postfix](https://en.wikipedia.org/wiki/Postfix_(software))
 - Physical Server: Locally hosted [AMD Threadripper](https://www.techpowerup.com/cpu-specs/ryzen-threadripper-1900x.c1912) running [Arch Linux](https://en.wikipedia.org/wiki/Arch_Linux)
 
-Some custom written stuff include Swift [Macros](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/macros/), advanced caching system via Swift [Actors](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/concurrency/#Actors), localization system to support multiple languages, and minification logic for javascript & css files for production.
+Some custom written stuff include [macros](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/macros/), advanced caching system via [actors](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/concurrency/#Actors), localization system to support multiple languages, and minification logic for JavaScript & CSS files for production.
 
 ## Features
 - Generates league schedules and tournament brackets in seconds
