@@ -8,7 +8,7 @@ View service at https://litleagues.com
 View updates and progress at https://litleagues.com/newsroom
 
 ## Tech Stack
-- Language: [Swift](https://www.swift.org) 6.0
+- Language: [Swift](https://www.swift.org) 6.2
 - IDE:
   - [Visual Studio Code](https://code.visualstudio.com)
   - [Xcode](https://developer.apple.com/xcode/) (rarely)
