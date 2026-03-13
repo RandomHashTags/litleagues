@@ -1,11 +1,9 @@
 # litleagues
 A league scheduling &amp; hosting service.
 
-The actual code is not publicly available at this time.
-
-View service at https://litleagues.com
-
-View updates and progress at https://litleagues.com/newsroom
+- League schedule generation powered by https://github.com/RandomHashTags/league-scheduling
+- View service at https://litleagues.com
+- View updates and progress at https://litleagues.com/newsroom
 
 ## Tech Stack
 - Language: [Swift](https://www.swift.org) 6.2
@@ -37,4 +35,4 @@ Some custom written stuff include [macros](https://docs.swift.org/swift-book/doc
 - [coming soon] Database features (creating accounts, joining teams, organizing leagues & tournaments, saving schedules & schedule settings)
 
 ## Update Frequency
-Usually the first Friday of every month (so, once a month). Sometimes more if the updates are necessary (bug fixes, security patches) or I get notable stuff done.
+Usually the first Friday of every month (so, once a month). Sometimes more if the updates are necessary (bug fixes, security patches) or notable stuff gets done.
