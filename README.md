@@ -1,7 +1,6 @@
 # litleagues
 A league scheduling &amp; hosting service.
 
-- League schedule generation powered by https://github.com/RandomHashTags/league-scheduling
 - View service at https://litleagues.com
 - View updates and progress at https://litleagues.com/newsroom
 
