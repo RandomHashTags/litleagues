@@ -5,7 +5,7 @@ A league scheduling &amp; hosting service.
 - View updates and progress at https://litleagues.com/newsroom
 
 ## Tech Stack
-- Language: [Swift](https://www.swift.org) 6.2
+- Language: [Swift](https://www.swift.org) 6.4
 - IDE:
   - [Visual Studio Code](https://code.visualstudio.com)
   - [Xcode](https://developer.apple.com/xcode/) (rarely)
